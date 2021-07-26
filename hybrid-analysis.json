@@ -1,0 +1,29 @@
+{
+    "finished": true,
+    "id": "60fe92782d1bf421d945fce9",
+    "reports": [],
+    "scanners": [
+        {
+            "anti_virus_results": [],
+            "error_message": null,
+            "name": "VirusTotal",
+            "percent": 2,
+            "positives": 2,
+            "progress": 100,
+            "status": "malicious",
+            "total": 89
+        },
+        {
+            "anti_virus_results": [],
+            "error_message": null,
+            "name": "urlscan.io",
+            "percent": 0,
+            "positives": null,
+            "progress": 100,
+            "status": "no-classification",
+            "total": null
+        }
+    ],
+    "sha256": "4020ecc2df76e752a84fd7bf88b303cbe28272baba91f1732195f75dbbdef12f",
+    "whitelist": []
+}
