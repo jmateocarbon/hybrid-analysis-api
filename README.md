@@ -112,6 +112,11 @@ python HybridAnalysis.py "url"
 Output:
 Is a JSON file which shows if the URL is malicious
 
+Note:
+
+Please make sure you have a HybridAnalysis [API token](https://www.hybrid-analysis.com/docs/api/v2) in your config.py file.
+
+
 <!-- ROADMAP -->
 ## Roadmap
 See the [open issues](https://github.com/jmateocarbon/google-twitter-webscrapper/issues) for a list of proposed features (and known issues).
